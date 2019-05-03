@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.352
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{B9F4EE89-793E-4172-95BB-4C31C77D59E1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Test413", "Services\HieBroker\Test413.csproj", "{90B0A16D-FEC3-486A-8424-385476BD7748}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90B0A16D-FEC3-486A-8424-385476BD7748}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90B0A16D-FEC3-486A-8424-385476BD7748}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90B0A16D-FEC3-486A-8424-385476BD7748}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90B0A16D-FEC3-486A-8424-385476BD7748}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{90B0A16D-FEC3-486A-8424-385476BD7748} = {B9F4EE89-793E-4172-95BB-4C31C77D59E1}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C383A0B-C001-4017-9765-069FFD74594D}
+	EndGlobalSection
+EndGlobal
